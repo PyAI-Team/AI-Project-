@@ -1,0 +1,7 @@
+The healthcare industry faces a major challenge whan it comes to diagnosing diseases like cancer in the early stages.
+Radiologists have to manually review medical images, which is time-consuming and prone to human error, leading to delayed or missed diagnoses
+This leads to reduced patients’ outcomes and higher charges and duration of treatment.
+
+The AI will employ convolutional neural networks to deprecated features, to automatically identify the initial stages of cancer in medical images such as CT scans or mammograms. 
+Deep learning will help the system to give real-time feedback to radiologists and enhance the efficiency of identifying abnormalities up to 100%. 
+This specific AI system will not only help in early diagnosis of diseases but also help in better treatment strategies for the patients.
