@@ -11,7 +11,7 @@ This project uses a neural network with TensorFlow to predict whether a breast t
 - **Splitting Data**: We split the data into training (80%) and testing (20%) sets using Scikit-Learn.
 - **Neural Network**: We build a model using Keras with two hidden layers (256 neurons each).
 
-## ✅ Training & Testing
+## ✅ Training & Testing the machine
 - The model is trained using 1,000 epochs to identify patterns.
 - We evaluate the model using the testing data to check its accuracy.
 
@@ -56,7 +56,7 @@ print(f'Test Accuracy: {accuracy:.2f}')
 ```
 ## 🖼 Output
 
-# Below is a screenshot showing the key results of the model training and testing process, including the accuracy:
+# Below is a screenshot showing the key results of the model training and testing process, including the accuracy :
 ![Output](https://github.com/user-attachments/assets/40c48f5b-d3f8-4041-8ccc-d4282d37e08e)
 
 
