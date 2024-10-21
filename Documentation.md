@@ -26,3 +26,5 @@ This problem is extremely relevant to the topic of using technology in businesse
 Implementing an AI-based solution for breast cancer detection will provide several benefits. First it cuts down the high percentage of wrong diagnoses thus increasing the chances of early treatment for the diagnosed patients. Second, patients get diagnosed faster so that the doctors start making decisions faster. In conclusion, it can prevent the raising of high contraction costs that emanate from doing several tests and procedures on the patients. Lastly, it will ensure patients receive the right amount of care that was needed avoiding wastage of health care resource.
 
 # Poster
+![POSTER](https://github.com/user-attachments/assets/08a1a2c0-ab4e-4402-9089-ddc4f2c6d43e)
+
