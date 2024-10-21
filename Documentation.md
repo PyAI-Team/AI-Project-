@@ -56,6 +56,15 @@ transparency or explanation. - Poor user interface design could hinder the adopt
 
 
 ### 🛠️Assessment of Tools and Techniques
+Tools
+Python- Python is an interpreted, object-oriented, high-level programming language with dynamic semantics. Its high-level built in data structures, combined with dynamic typing and dynamic binding make it very attractive for Rapid Application Development, as well as for use as a scripting or glue language to connect existing components together
+Python Imaging Library: This tool will be used for image preprocessing, such as resizing, normalization, and enhancing mammogram images. Proper preprocessing ensures that the input data is in an optimal format for the deep learning model.
+HTML and CSS: These tools wills be used to build the user-facing interface where healthcare professionals can interact with the AI system
+Techniques
+•	Convolutional Neural Networks: CNNs will be adopted as the main form of machine learning that will be used to identify and differentiate breast tumors from mammogram images. CNNs are useful when it comes to detecting the existence of the spatial hierarchy in the images, learning about patterns, characteristics of malignancy or benign tumour.
+•	Transfer Learning: Given the challenge of limited medical image datasets, transfer learning will be applied. Pre-trained models will be fine-tuned on the breast cancer dataset, leveraging pre-learned features to boost performance while reducing the need for extensive data and training time.
+•	Data Augmentation: To overcome the limitation of small medical datasets, data augmentation techniques will be applied.
+•	Natural Language Processing: NLP will be utilized to develop a Chabot integrated with the system. This Chabot will help doctors and healthcare professionals by answering questions, guiding them through the process of uploading images, and interpreting results in a user-friendly manner.
 
 
 # Problem Definition
