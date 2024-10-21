@@ -53,3 +53,6 @@ model.fit(x_train, y_train, epochs=1000)
 # Evaluate the model
 loss, accuracy = model.evaluate(x_test, y_test)
 print(f'Test Accuracy: {accuracy:.2f}')
+
+![Screenshot 2024-09-24 172126](https://github.com/user-attachments/assets/deb0b143-f380-4a0b-946d-da5f828fe6a9)
+
