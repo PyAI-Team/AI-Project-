@@ -58,6 +58,7 @@ transparency or explanation. - Poor user interface design could hinder the adopt
 ### 🛠️Assessment of Tools and Techniques
 Tools
 Python- Python is an interpreted, object-oriented, high-level programming language with dynamic semantics. Its high-level built in data structures, combined with dynamic typing and dynamic binding make it very attractive for Rapid Application Development, as well as for use as a scripting or glue language to connect existing components together
+TensorFlow/Keras: TensorFlow will be used to develop and train a Convolutional Neural Network (CNN) model. CNNs are well-suited for image analysis, which is essential for accurately classifying mammograms in breast cancer detection.
 Python Imaging Library: This tool will be used for image preprocessing, such as resizing, normalization, and enhancing mammogram images. Proper preprocessing ensures that the input data is in an optimal format for the deep learning model.
 HTML and CSS: These tools wills be used to build the user-facing interface where healthcare professionals can interact with the AI system
 Techniques
