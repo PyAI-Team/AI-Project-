@@ -16,10 +16,17 @@ Breast cancer detection using AI is a crucial tool in making informed decisions 
 
 
 ### 🏆Business success criteria
+1. clinical success criteria that focuses on accuracy and sensitivity in tumor detection and diagnosis
+2. business  and financial criteria that deals revenue growth and market share expansion
 
+3. technical success criteria  that focuses on scalability and reliability of AI algorithms
+4.  regulatory and compliance success criteria that deals with FD clearance or CE marking and compliance with healthcare 
 
 ### ⛰️Business background
-
+1. market Overview  that focuses  on cancer that is a leading cause of death worldwide,with 18.1 million  new cases and 9.6 million deaths in 2018
+2. target market that focuses  on oncologists,radiologists and pathologists
+3. competitive Landscape  that deals with IBM Watson health (oncologists and genomics)
+4. value Proposition that focuses  on early cancer detection and diagnosis 
 
 ### ⚠️Requirements, constraints and risks
 
